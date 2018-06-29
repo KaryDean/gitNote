@@ -12,6 +12,3 @@ GitHub Desktop was unable to store the account token in the keychain. Please che
 3. 找到github,双击
 4. 点击访问控制，选择任意另一个，输入系统密码
 
-
-{{page.title}}
-{{ page.title }}
